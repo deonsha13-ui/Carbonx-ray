@@ -1,0 +1,6 @@
+{
+  "name": "Carbon-Xray",
+  "description": "A dual-portal carbon footprint tracking platform using Gemini Vision API to analyze screen time for individuals and GST invoices for enterprise supply chain emissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
